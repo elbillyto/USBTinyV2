@@ -1,0 +1,101 @@
+Cmp-Mod V01 Created by Cvpcb (2014-jul-16 BZR unknown)-product   date = jue 30 oct 2014 01:37:54 CET
+
+BeginCmp
+TimeStamp = /5451426C;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /545131D9;
+Reference = D2;
+ValeurCmp = 3.6;
+IdModule  = Discret:D3;
+EndCmp
+
+BeginCmp
+TimeStamp = /54513262;
+Reference = D3;
+ValeurCmp = 3.6;
+IdModule  = Discret:D3;
+EndCmp
+
+BeginCmp
+TimeStamp = /545141E1;
+Reference = D4;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54513787;
+Reference = IC1;
+ValeurCmp = ATTINY45-P;
+IdModule  = Sockets_DIP:DIP-8__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /5451310A;
+Reference = P1;
+ValeurCmp = CONN_4;
+IdModule  = Connect:USB_A;
+EndCmp
+
+BeginCmp
+TimeStamp = /545146F0;
+Reference = P2;
+ValeurCmp = CONN_3X2;
+IdModule  = Pin_Arrays:pin_array_3x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /54514157;
+Reference = R1;
+ValeurCmp = 330;
+IdModule  = Discret:R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /54514118;
+Reference = R2;
+ValeurCmp = 220;
+IdModule  = Discret:R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /54514049;
+Reference = R3;
+ValeurCmp = 1.5K;
+IdModule  = Discret:R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /54513858;
+Reference = R4;
+ValeurCmp = 1.5K;
+IdModule  = Discret:R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /545132D9;
+Reference = R5;
+ValeurCmp = 27;
+IdModule  = Discret:R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /54513388;
+Reference = R6;
+ValeurCmp = 27;
+IdModule  = Discret:R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /545138B3;
+Reference = R7;
+ValeurCmp = 1.5K;
+IdModule  = Discret:R3-LARGE_PADS;
+EndCmp
+
+EndListe
